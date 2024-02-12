@@ -1,0 +1,4 @@
+Variables :
+int _remainingTimeInSeconds
+bool _isRestPeriod
+Timer? _timer
